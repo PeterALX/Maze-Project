@@ -1,6 +1,8 @@
 # The Maze Project
 ## Introduction
 The Maze project is an implementation of the raycasting algorithm written in C
+![image](https://github.com/user-attachments/assets/48bc2a94-cdb1-4121-9d53-5a678aa29b51)
+
 
 Written in C SDL2 library.
 Dependencies:
