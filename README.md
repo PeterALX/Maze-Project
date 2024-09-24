@@ -12,9 +12,9 @@ Make sure you have:
 - make
 - gcc compiler
 - SDL2 library (to install this, run )
-    `sudo apt update`
-    `sudo apt install build-essential` (make and gcc)
-    `sudo apt-get install libsdl2-dev` (SDL2)
+    - `sudo apt update`
+    - `sudo apt install build-essential` (make and gcc)
+    - `sudo apt-get install libsdl2-dev` (SDL2)
 
 ## Usage
 - Use the keys WASD for movement
